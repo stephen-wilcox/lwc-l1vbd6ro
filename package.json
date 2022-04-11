@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/stephen-wilcox.lwc-l1vbd6ro",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve sM3hwgoHn6T22XOws2SP --open"
+  }
+}
